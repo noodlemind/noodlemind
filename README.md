@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @noodlemind
+- 👋 Hi, I’m Krish
 - 👀 I’m interested in food, photography and travel.
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Machine Learning / Artificial Intelligence
 - 💞️ I’m looking to collaborate on software that solves life problems.
 - 📫 How to reach me on twitter @noodleMind
 <!---
